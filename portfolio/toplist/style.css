@@ -1,0 +1,33 @@
+
+.app {
+    display: -webkit-flex;
+    display: flex;
+    color:#7C8B88;
+    font-size: 20px;
+    padding: 15px;
+    font-family: Arial;
+}
+
+description {
+
+}
+
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+     box-sizing: border-box;
+}
+
+h1 {
+    background-color: #33BEBE;
+    color: white;
+    font-size: 67px;
+    font-family: Arial;
+    text-align: left;
+    padding: 20px;
+    margin: 0;
+}
+.image {
+    padding: 10px;
+}
